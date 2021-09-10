@@ -1,0 +1,5 @@
+<launch>
+
+<node name="camera" pkg="camera" type="camera.py" output="screen" respawn="true" />
+
+</launch>
